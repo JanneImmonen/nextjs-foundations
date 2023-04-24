@@ -1,0 +1,16 @@
+/* styles/About.module.css */
+.container {
+    max-width: 960px;
+    margin: 0 auto;
+    font-family: sans-serif;
+  }
+  
+  .main {
+    padding: 1.5rem;
+  }
+  
+  .sectionTitle {
+    font-size: 1.5rem;
+    margin-bottom: 1rem;
+  }
+  

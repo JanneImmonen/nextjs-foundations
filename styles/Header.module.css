@@ -1,0 +1,20 @@
+/* styles/Header.module.css */
+.header {
+    background-color: #1e1e1e;
+    color: white;
+    padding: 1.5rem;
+    text-align: center;
+    border-bottom: 2px solid #0070f3;
+  }
+  
+  .title {
+    margin: 0;
+    font-size: 2rem;
+  }
+  
+  .subtitle {
+    margin-top: 0.5rem;
+    font-size: 1.2rem;
+    color: #aaa;
+  }
+  
